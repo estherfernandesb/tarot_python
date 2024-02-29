@@ -1,0 +1,22 @@
+O Louco: Representa o inicio de uma jornada, novas oportunidades e liberdade.
+O Mago: Representa habilidade, poder e iniciativa.
+A Sacerdotisa: Representa intuicao, misterio e segredos ocultos.
+A Imperatriz: Representa fertilidade, abundancia e maternidade.
+O Imperador: Representa autoridade, controle e estabilidade.
+O Hierofante: Representa tradição, ensinamento e orientacao espiritual.
+Os Amantes: Representa escolhas, relacionamentos e harmonia.
+O Carro: Representa movimento, direção e determinação.
+A Justiça: Representa equilibrio, imparcialidade e ordem.
+O Eremita: Representa solidao, introspecção e busca interior.
+A Roda da Fortuna: Representa mudancas, sorte e destino.
+A Força: Representa coragem, dominio e controle emocional.
+O Enforcado: Representa sacrificio, renuncia e suspensao.
+A Morte: Representa fim de um ciclo, transformação e renascimento.
+A Temperança: Representa equilibrio, moderaca e harmonia interior.
+O Diabo: Representa materialismo, luxuria e tentacao.
+A Torre: Representa destruicao, mudança abrupta e revelacao.
+A Estrela: Representa esperanca, inspiracao e orientacao espiritual.
+A Lua: Representa ilusao, medo e intuicao.
+O Sol: Representa sucesso, vitalidade e clareza.
+O Julgamento: Representa renascimento, avaliacao e revelacao.
+O Mundo: Representa realizaca, conclusao e sucesso total.
