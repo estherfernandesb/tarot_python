@@ -9,7 +9,7 @@ O Carro: Representa movimento, direção e determinação.
 A Justica: Representa equilibrio, imparcialidade e ordem.
 O Eremita: Representa solidao, introspecção e busca interior.
 A Roda da Fortuna: Representa mudancas, sorte e destino.
-A Força: Representa coragem, dominio e controle emocional.
+A Forca: Representa coragem, dominio e controle emocional.
 O Enforcado: Representa sacrificio, renuncia e suspensao.
 A Morte: Representa fim de um ciclo, transformação e renascimento.
 A Temperanca: Representa equilibrio, moderaca e harmonia interior.
