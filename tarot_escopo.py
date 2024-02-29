@@ -29,12 +29,12 @@ def main():
     cartas = ler_cartas(nome_arquivo)
 
     if cartas:
-        input("Pressione Enter para tirar uma carta de tarô...")
+        input("Pressione Enter para tirar uma carta...")
         carta_tirada, descricao = sortear_carta(cartas)
-        print(f"A carta de tarô tirada é: {carta_tirada}")
+        print(f"A sua carta é: {carta_tirada}")
         print(f"Descrição: {descricao}")
     else:
-        print("Não foi possível tirar uma carta de tarô.")
+        print("Não foi possível tirar uma carta.")
 
 if __name__ == "__main__":
     main()
