@@ -11,7 +11,7 @@ O Eremita: Representa solidao, introspecção e busca interior.
 A Roda da Fortuna: Representa mudancas, sorte e destino.
 A Forca: Representa coragem, dominio e controle emocional.
 O Enforcado: Representa sacrificio, renuncia e suspensao.
-A Morte: Representa fim de um ciclo, transformação e renascimento.
+A Morte: Representa fim de um ciclo, transformacao e renascimento.
 A Temperanca: Representa equilibrio, moderaca e harmonia interior.
 O Diabo: Representa materialismo, luxuria e tentacao.
 A Torre: Representa destruicao, mudança abrupta e revelacao.
