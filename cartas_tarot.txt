@@ -3,11 +3,11 @@ O Mago: Representa habilidade, poder e iniciativa.
 A Sacerdotisa: Representa intuicao, misterio e segredos ocultos.
 A Imperatriz: Representa fertilidade, abundancia e maternidade.
 O Imperador: Representa autoridade, controle e estabilidade.
-O Hierofante: Representa tradição, ensinamento e orientacao espiritual.
+O Hierofante: Representa tradicao, ensinamento e orientacao espiritual.
 Os Amantes: Representa escolhas, relacionamentos e harmonia.
-O Carro: Representa movimento, direção e determinação.
+O Carro: Representa movimento, direcao e determinacao.
 A Justica: Representa equilibrio, imparcialidade e ordem.
-O Eremita: Representa solidao, introspecção e busca interior.
+O Eremita: Representa solidao, introspeccao e busca interior.
 A Roda da Fortuna: Representa mudancas, sorte e destino.
 A Forca: Representa coragem, dominio e controle emocional.
 O Enforcado: Representa sacrificio, renuncia e suspensao.
